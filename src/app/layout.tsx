@@ -30,6 +30,7 @@ export default function RootLayout({
       >
         {children}
       </body>
+      <footer>Lucas Resende Lima RM: 556564</footer>
     </html>
   );
 }
